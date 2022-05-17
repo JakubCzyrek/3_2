@@ -1,2 +1,2 @@
-Krzysztof 20
-Janusz 40
+Adam 55 19.02.1999
+Janusz 12 19.02.1999
